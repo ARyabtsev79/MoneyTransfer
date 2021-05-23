@@ -20,3 +20,22 @@
 
 ## Общие рекомендации
 *Задать переменным vip_cont, transfer, total_balance тип данных long*
+
+## Тестирование производилось в следующем окружении:
+ноутбук Aspire V3-772
+
+Окружение: ОС windows 8 6.2.9200 сборка 9200
+
+Версия JDK "11.0.10" 2021-01-19
+
+Версия IntelliJ IDEA 2021.1 (Community Edition)
+Build #IC-211.6693.111, built on April 6, 2021
+Runtime version: 11.0.10+9-b1341.35 amd64
+VM: Dynamic Code Evolution 64-Bit Server VM by JetBrains s.r.o.
+Windows 8 6.2
+GC: G1 Young Generation, G1 Old Generation
+Memory: 982M
+Cores: 8
+Kotlin: 211-1.4.32-release-IJ6693.72
+
+Google Chrome Версия 89.0.4389.128 (Официальная сборка), (64 бит)
